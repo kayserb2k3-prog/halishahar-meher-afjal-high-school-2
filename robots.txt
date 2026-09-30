@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://app.netlify.com/teams/kayserb2k3/projects/sitemap.xml
